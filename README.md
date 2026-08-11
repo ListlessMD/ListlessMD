@@ -6,7 +6,7 @@ i love blender<br>helmium.......<br>gear soon**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=ListlessMD&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=ListlessMD&theme=shadow_red&hide_border=false)<br/>
+
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ListlessMD&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
