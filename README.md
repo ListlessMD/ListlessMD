@@ -1,4 +1,4 @@
-<img width="1916" height="970" alt="Background" src="https://github.com/user-attachments/assets/a0da08c5-147d-4438-bdcc-ca79b32b40fa" />
+<img width="1916" height="950" alt="Background" src="https://github.com/user-attachments/assets/a0da08c5-147d-4438-bdcc-ca79b32b40fa" />
 
 <hr style="height:5px; border:none; background-color:#333;">
 **💫 About Me:**
