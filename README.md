@@ -1,4 +1,5 @@
-<img width="1920" height="1080" alt="topb" src="https://github.com/user-attachments/assets/9dd6cbc3-35ce-4426-a918-04b24bdd596c" />
+<img width="1916" height="1078" alt="Background" src="https://github.com/user-attachments/assets/a0da08c5-147d-4438-bdcc-ca79b32b40fa" />
+
 <hr style="height:5px; border:none; background-color:#333;">
 **💫 About Me:**
 i love blender<br>helmium.......<br>gear soon**
