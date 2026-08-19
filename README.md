@@ -34,7 +34,7 @@ i love blender<br>helmium.......<br>gear soon**
 
 # dark helium theme soon
 
-![Uploading ReaderDJK.gif.gif…]()
+<img width="240" height="120" alt="Image" src="https://github.com/user-attachments/assets/f821508c-2f15-49fb-893e-fef521c6c833" />
 
 <hr style="height:5px; border:none; background-color:#333;">
 
