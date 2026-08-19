@@ -1,4 +1,4 @@
-
+![banner](up.gif)
 <hr style="height:5px; border:none; background-color:#333;">
 **💫 About Me:**
 i love blender<br>helmium.......<br>gear soon**
@@ -33,3 +33,7 @@ i love blender<br>helmium.......<br>gear soon**
 <hr style="height:5px; border:none; background-color:#333;">
 
 # dark helium theme soon
+<hr style="height:5px; border:none; background-color:#333;">
+
+# banner soon(bottom top)
+![banner](down.gif)
