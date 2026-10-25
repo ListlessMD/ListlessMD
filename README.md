@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="top banner" src="https://github.com/user-attachments/assets/d620acfc-d45a-4019-a4cb-25885ad78d2b" />
+<img src="https://github.com/user-attachments/assets/d620acfc-d45a-4019-a4cb-25885ad78d2b" />
 <hr style="height:5px; border:none; background-color:#333;">
 **💫 About Me:**
 i love blender<br>helmium.......<br>gear soon**
